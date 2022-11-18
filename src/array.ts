@@ -4,7 +4,7 @@ import { isArray, isNumber, isString } from '@/verify'
  * 移除所有 falsey 值的数组
  * @param array 数组
  * @return 新的数组
- * @throws array参数需要Array array参数错误时触发
+ * @throws array参数需要Array array参数错误时触发1
  * @category 数组Array
  * @example
  * falsey => 0 | false | null | undefined | NaN
